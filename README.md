@@ -1,2 +1,1 @@
-Clôture virtuelle destinée à la surveillance d'un troupeau de bétail, le système notifie le fermier lorsqu'un mouton quitte la ferme, en utilisant le module LoRaWAN et une passerelle pour estimer la position de l’animal par rapport à la frontière de la ferme. 
-Les services cloud de firebase sont utilisés pour analyser, traiter et envoyer en temps réel les messages contenant les données des animaux.
+
